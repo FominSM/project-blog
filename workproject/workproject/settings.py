@@ -5,6 +5,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-dxpjz*dcrszhjct%ho6h3+6)+b-b1rcpm2%*=#eraa&lbb-*)@'
 
+# Если не использовать SMTP-сервер, то можно сообщить Django, что нужно писать электронные письма в консоль
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
 DEBUG = True
 
 ALLOWED_HOSTS = []
