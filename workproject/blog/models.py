@@ -2,6 +2,7 @@ from django.db import models
 from django.utils import timezone
 from django.contrib.auth.models import User
 from django.urls import reverse
+from taggit.managers import TaggableManager
 
 
 class PublishedManager(models.Manager):
@@ -15,7 +16,6 @@ class Post(models.Model):
         DRAFT = 'DF', 'Draft'
         PUBLISHED = 'PB', 'Published'
 
-
     title = models. CharField(max_length=250)
     slug = models.SlugField(max_length=250, unique_for_date='publish') # при использовании параметра unique_for_date поле slug должно быть уникальным для даты, сохраненной в поле publish
     author = models.ForeignKey(User, on_delete=models.CASCADE, related_name='blog_posts') #related_name, чтобы указывать имя обратной связи, от User к Post - user.blog_posts
@@ -24,6 +24,7 @@ class Post(models.Model):
     created = models.DateTimeField(auto_now_add=True)
     updated = models.DateTimeField(auto_now=True)
     status = models.CharField(max_length=2, choices=Status.choices, default=Status.DRAFT)
+    tags = TaggableManager()
 
     objects = models.Manager() # менеджер, применяемый по умолчанию
     published = PublishedManager() # конкретно-прикладной менеджер
