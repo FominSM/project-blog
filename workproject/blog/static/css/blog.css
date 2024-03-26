@@ -5,8 +5,17 @@ body {
 }
 
 a { 
-    color:#00abff;
+    color:#0e97db;
     text-decoration:none; 
+}
+
+a:hover {
+    color: #105055; 
+    text-decoration: underline;
+}
+
+.post_bacround_color {
+    background-color: #e6e6e9;
 }
 
 h1 { 
@@ -35,7 +44,7 @@ h2 {
 }
 
 p.date { 
-    color:#ccc;
+    color:#1a1616;
     font-family: georgia, serif;
     font-size: 12px;
     font-style: italic; 
