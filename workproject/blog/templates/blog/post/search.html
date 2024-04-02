@@ -25,7 +25,6 @@
         <h1>Search for posts</h1>
         <form method="get">
             {{ form.as_p }}
-            {% csrf_token %}
             <input type="submit" value="Search">
         </form>
     {% endif %}
