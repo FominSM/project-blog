@@ -1,0 +1,1140 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-03-13T11:50:09.022Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Car",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-03-15T09:32:29.146Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Example-1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-03-15T09:33:04.285Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "weather",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-03-15T09:33:29.779Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "weather",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-03-15T13:30:07.903Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Weather",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-03-15T13:31:33.220Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Cats",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-03-15T13:32:52.154Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Dogs",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-03-15T13:32:59.504Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Cats",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-03-15T13:35:09.277Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Space",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-03-15T13:37:09.334Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Milk",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-03-25T13:09:12.619Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Slava on Car",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-03-27T12:53:02.141Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Weather",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-03-27T12:56:19.637Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Space",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-04-01T18:32:01.134Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-04-01T18:34:58.977Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-04-01T18:36:18.108Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-04-01T18:37:15.474Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-04-01T18:37:50.778Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-04-01T18:40:04.730Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-04-01T18:40:37.998Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-04-01T18:41:41.260Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-04-01T18:41:59.074Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-04-01T18:42:23.247Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-04-02T08:43:37.821Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$GRUKXm0xJ9Wcsp9J4UaPaF$lbI9T4aapFS7l+gIjc0WvEyK1cRap3es8LypQgmH70I=",
+    "last_login": "2024-04-02T08:47:27.301Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@mail.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-03-13T11:34:38.216Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1kwswucyi9y5ppnrnhurxov9qzx4y6de",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RC2FBY8eu8bCMuCrRpISnsy_t006UGvM5N5ixD3bQ57z2tYWFwFiMsvo5ieuR6CH7Hem0ytbutC8kjkabucGufX7Wz_BnPs87FV6IGhqGLYo4ORjaPEBpX2aYxkbAbAVIbR2uKyIg3IgxvIIhqlUXy-yZo26w:1rl3tk:UQDZRycZxMpYYOlmJTO9AqEn9_24bTE3GhP1TSdcT9E",
+    "expire_date": "2024-03-29T09:30:44.036Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "51hsd3zj9qdf7kc3v92c5a8t0uywxkty",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RC2FBY8eu8bCMuCrRpISnsy_t006UGvM5N5ixD3bQ57z2tYWFwFiMsvo5ieuR6CH7Hem0ytbutC8kjkabucGufX7Wz_BnPs87FV6IGhqGLYo4ORjaPEBpX2aYxkbAbAVIbR2uKyIg3IgxvIIhqlUXy-yZo26w:1rrMQZ:VnbCls2DSv4bTftg6a2uj2Uu6YRHs4fcZRd2MWS7ngE",
+    "expire_date": "2024-04-15T18:30:39.625Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "734i6y69qvji6ueiothryr5ldposeix5",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RC2FBY8eu8bCMuCrRpISnsy_t006UGvM5N5ixD3bQ57z2tYWFwFiMsvo5ieuR6CH7Hem0ytbutC8kjkabucGufX7Wz_BnPs87FV6IGhqGLYo4ORjaPEBpX2aYxkbAbAVIbR2uKyIg3IgxvIIhqlUXy-yZo26w:1rrZgX:HYrmX5ATcfJtZD_62iOcPphGvFjE_5IoPvnOZMmnSWc",
+    "expire_date": "2024-04-16T08:40:01.548Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "e5qroiv0vvfeycm0mqujouqwi0gsz5ig",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RC2FBY8eu8bCMuCrRpISnsy_t006UGvM5N5ixD3bQ57z2tYWFwFiMsvo5ieuR6CH7Hem0ytbutC8kjkabucGufX7Wz_BnPs87FV6IGhqGLYo4ORjaPEBpX2aYxkbAbAVIbR2uKyIg3IgxvIIhqlUXy-yZo26w:1rrZnj:bcpqKUXltwqGV2YwiGWJVJ72P1vrsfkJsK3Jir2GMLk",
+    "expire_date": "2024-04-16T08:47:27.307Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "q4mjc2r0id2zcsysajss4vvcq0ab0v8h",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RC2FBY8eu8bCMuCrRpISnsy_t006UGvM5N5ixD3bQ57z2tYWFwFiMsvo5ieuR6CH7Hem0ytbutC8kjkabucGufX7Wz_BnPs87FV6IGhqGLYo4ORjaPEBpX2aYxkbAbAVIbR2uKyIg3IgxvIIhqlUXy-yZo26w:1rkMyF:1vekdxVDtQwZWf0Roq0K4P86p-EeyGdOrYIE2EIYNY8",
+    "expire_date": "2024-03-27T11:40:31.225Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Car",
+    "slug": "post-about-car",
+    "author": 1,
+    "body": "\"Объединяя инновации и стиль: взгляд на автомобиль будущего\r\n\r\nАвтомобильная промышленность неустанно развивается, стремясь сочетать в себе последние технологии, экологическую ответственность и уникальный дизайн. Сегодня мы хотим поделиться с вами информацией о новой модели, которая, по нашему мнению, идеально воплощает эти качества.\r\n\r\nПредставляем вам электрический седан нового поколения, сочетающий в себе мощность, скорость и экологическую чистоту. Этот автомобиль способен проехать более 300 миль на одном заряде, что делает его идеальным выбором для тех, кто ищет эффективное и удобное средство передвижения для ежедневных поездок и дальних поездок.\r\n\r\nОдной из ключевых особенностей этого автомобиля является его уникальный дизайн. Смелые линии и футуристический внешний вид делают его по-настоящему запоминающимся и выделяющимся на дороге. Но не только внешний вид делает этот автомобиль особенным. Интерьер также выполнен с использованием высококачественных материалов и передовых технологий, обеспечивая водителю и пассажирам комфорт и удобство во время поездки.\r\n\r\nКроме того, этот автомобиль оснащен последними технологиями безопасности, включая систему автоматического торможения, помощник удержания полосы движения и систему мониторинга слепых зон, чтобы гарантировать, что вы всегда будете в безопасности на дороге.\r\n\r\nКроме всего прочего, этот автомобиль также является экологически чистым выбором. Электрический двигатель не производит выхлопных газов, что делает его идеальным выбором для тех, кто заботится об окружающей среде и стремится сократить свой углеродный след.\r\n\r\nВ целом, этот автомобиль является идеальным сочетанием стиля, технологий и экологической ответственности. Если вы ищете эффективное, безопасное и удобное средство передвижения, которое также будет выделяться на дороге, то этот автомобиль - отличный выбор для вас.\"",
+    "publish": "2024-03-13T11:44:23Z",
+    "created": "2024-03-13T11:50:09.021Z",
+    "updated": "2024-03-13T11:50:09.021Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Weather",
+    "slug": "weather-post",
+    "author": 1,
+    "body": "На улице восходило солнце, заставляя природу просыпаться после долгой ночи. Капельки росы медленно испарялись, а воздух наполнялся свежим ароматом зелени. Наступающий летний день обещал быть ярким и солнечным. \r\n\r\nНебо напоминало голубую шелковую ленту, не имеющую ни единого пятнышка. Прозрачные облака плыли в высоких слоях, как крошечные потерянные островки среди безбрежной синевы. Кажется, даже они не решались скрывать часть неземного сияния.\r\n\r\nТрава вокруг была свежей и сочной, словно только что обрызганная орошением. Она склонялась перед легким дуновением ветра, словно поклоняясь природным силам. Цветы, словно перепуганные своей красотой, открыли лепестки в знак приветствия первым лучам солнца. Их яркие краски сливались с фоном ясного неба, создавая неповторимое зрелище.",
+    "publish": "2024-03-14T09:30:45Z",
+    "created": "2024-03-15T09:32:29.145Z",
+    "updated": "2024-03-27T12:53:02.137Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Cats",
+    "slug": "cats",
+    "author": 1,
+    "body": "\"Маленькие тигры в наших домах: почему кошки завораживают нас\r\n\r\nКошки - это загадочные и очаровательные существа, которые завораживают нас своей красотой и независимостью. Их мягкая шерсть, пронзительный взгляд и грациозные движения делают их идеальными компаньонами для тех, кто ценит независимость и элегантность.\r\n\r\nКошки также известны своей способностью обучаться и адаптироваться к новым ситуациям. Они могут быть хорошими охотниками, но в то же время могут проявлять нежность и ласку к своим хозяевам. Каждая кошка уникальна и имеет свой собственный характер, что делает их еще более интересными и любимыми.\r\n\r\nКроме того, кошки имеют множество положительных эффектов на наше здоровье. Исследования показали, что владение кошкой может снизить риск сердечно-сосудистых заболеваний, уменьшить стресс и улучшить настроение.\r\n\r\nВ целом, кошки - это маленькие тигры в наших домах, которые приносят радость, успокоение и любовь в нашу жизнь. Если вы ищете верного друга и компаньона, кошка может стать идеальным выбором для вас.\"",
+    "publish": "2024-03-15T13:30:25Z",
+    "created": "2024-03-15T13:31:33.219Z",
+    "updated": "2024-03-15T13:32:59.503Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Dogs",
+    "slug": "dogs",
+    "author": 1,
+    "body": "\"Лучшие друзья человека: почему собаки столь ценны\r\n\r\nСобаки - это верные и преданные компаньоны, которые приносят радость и утешение в нашу жизнь. Их безграничная любовь и преданность делают их не только хорошими друзьями, но и членами нашей семьи.\r\n\r\nСобаки также известны своей способностью обучаться и помогать людям. Они могут быть поводырями для слепых, служебными собаками для людей с ограниченными возможностями и даже терапевтическими животными для тех, кто страдает от стресса или тревоги.\r\n\r\nКроме того, собаки могут мотивировать нас быть активными и здоровыми. Исследования показали, что владение собакой может улучшить физическое здоровье и снизить риск сердечно-сосудистых заболеваний.\r\n\r\nВ целом, собаки - это лучшие друзья человека, которые приносят любовь, радость и утешение в нашу жизнь. Если вы ищете верного компаньона и члена семьи, собака может стать идеальным выбором для вас.\"",
+    "publish": "2024-03-15T13:31:33Z",
+    "created": "2024-03-15T13:32:52.153Z",
+    "updated": "2024-03-15T13:32:52.153Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Space",
+    "slug": "space",
+    "author": 1,
+    "body": "Если спутник Земли исчезнет, скорее всего, глобальной катастрофы не случится. Когда-то она была основным источником света в темное время суток — теперь люди умеют обходиться без нее. И все же некоторые серьезные изменения произойдут. Например, настанет конец многим водным видам спорта. Фазы Луны влияют на волны — проходя над поверхностью нашей планеты, она «тянет» за собой массы воды. Кроме того, вымрут морские обитатели, жизнь которых напрямую связана с приливами и отливами. \r\nБез спутника на Земле не будет солнечных и лунных затмений, а тектонические плиты сместятся, вызвав землетрясения и извержения вулканов. Но главное — климат планеты уже не будет прежним.",
+    "publish": "2024-03-15T13:33:38Z",
+    "created": "2024-03-15T13:35:09.276Z",
+    "updated": "2024-03-27T12:56:19.633Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Milk",
+    "slug": "milk",
+    "author": 1,
+    "body": "Молоко — отличный источник витаминов и минералов, особенно белка и кальция. Второй играет важную роль в здоровье костей, движении мышц и нервных сигналов. Органы здравоохранения рекомендуют получать достаточно кальция, чтобы предотвратить переломы костей и остеопороз. Некоторые производители обогащают коровье молоко витамином D — еще одним питательным веществом, которое улучшает здоровье костей.\r\n\r\nМолоко и молочные продукты имеют хороший баланс белков, жиров и углеводов и поэтому являются очень важным источником необходимых питательных веществ.",
+    "publish": "2024-03-15T13:36:07Z",
+    "created": "2024-03-15T13:37:09.333Z",
+    "updated": "2024-03-15T13:37:09.333Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Markdown Post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n- One\r\n- Two\r\n- Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2024-04-01T18:30:42Z",
+    "created": "2024-04-01T18:32:01.128Z",
+    "updated": "2024-04-01T18:42:23.245Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 1,
+    "name": "Slava",
+    "email": "slava@mail.ru",
+    "body": "Comment-1",
+    "created": "2024-03-25T13:09:12.618Z",
+    "updated": "2024-03-25T13:09:12.618Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 1,
+    "name": "Mark",
+    "email": "mark@mail.ru",
+    "body": "Test Comment",
+    "created": "2024-03-25T14:00:19.632Z",
+    "updated": "2024-03-25T14:00:19.632Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 1,
+    "name": "Ivan",
+    "email": "ivan@mai.ru",
+    "body": "Cool Post !!!",
+    "created": "2024-03-27T11:53:45.179Z",
+    "updated": "2024-03-27T11:53:45.179Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 3,
+    "name": "Msx",
+    "email": "max@mail.ru",
+    "body": "Like!",
+    "created": "2024-04-01T17:55:20.783Z",
+    "updated": "2024-04-01T17:55:20.783Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 2,
+    "name": "Max Max",
+    "email": "max1@mail.ru",
+    "body": "Like!",
+    "created": "2024-04-01T17:56:07.054Z",
+    "updated": "2024-04-01T17:56:07.054Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 6,
+  "fields": {
+    "post": 2,
+    "name": "IvanM",
+    "email": "IvanM@mail.ru",
+    "body": "Cool!",
+    "created": "2024-04-01T17:56:33.108Z",
+    "updated": "2024-04-01T17:56:33.108Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 7,
+  "fields": {
+    "post": 7,
+    "name": "Sero",
+    "email": "sergo@mail.ru",
+    "body": "I sad",
+    "created": "2024-04-01T18:43:22.666Z",
+    "updated": "2024-04-01T18:43:22.666Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "car",
+    "slug": "car"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 7
+  }
+}
+]
